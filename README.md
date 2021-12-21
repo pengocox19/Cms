@@ -1,4 +1,4 @@
-##HOW TO INSTALL
+## HOW TO INSTALL
 apt update 
 apt upgrade
 apt install python
@@ -8,6 +8,6 @@ git clone https://github.com/pengocox19/Cms
 cd Cms
 python2 cms_endcrypt.py
 
-##THANK TO
+## THANKS TO
 
 GAK ADA :) GW BUAT SENDIRI :V
