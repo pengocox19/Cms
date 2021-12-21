@@ -1,3 +1,6 @@
+## SUPROOT UBUNTU & TERMUX ;)
+
+
 ## HOW TO INSTALL
 apt update
 
