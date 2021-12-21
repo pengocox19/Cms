@@ -1,7 +1,10 @@
 ## SUPROOT UBUNTU & TERMUX ;)
 
+## Cms DETECTOR SITE
+
+## PREVIW
 <img src="https://github.com/pengocox19/Cms/blob/main/Screenshot_20211221-210944_Termux.jpg">
-## CMS DETECTOR SITE
+
 
 ## HOW TO INSTALL
 apt update
